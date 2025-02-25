@@ -4,7 +4,7 @@ This repository explores advanced techniques in makeup transfer, building on the
 
 ## Project Overview
 
-In this project, we:
+In this project:
 
 1. **Reproduce, and debug** the official repository of the paper *"Lipstick Ain't Enough: Beyond Color Matching for In-the-Wild Makeup Transfer"* by Thao Nguyen, Anh Tran, and Minh Hoai (CVPR 2021). This repository can be found at [VinAIResearch/CPM](https://github.com/VinAIResearch/CPM).
 
@@ -19,7 +19,7 @@ In this project, we:
 
 **Please CITE** this paper if you use this dataset or model implementation in your own research or software.
 
-2. **Propose a pose-transformation learning framework** for makeup transfer tasks. By leveraging UV-position mapping, we aim to improve makeup consistency across varied face angles and lighting. This work is still under active investigation, with ongoing efforts to stabilize and enhance performance.
+2. **Propose a pose-transformation learning framework** for makeup transfer tasks. By leveraging UV-position mapping, I aim to improve makeup consistency across varied face angles and lighting. This work is still under active investigation, with ongoing efforts to stabilize and enhance performance.
 
 ![](https://i.imgur.com/Q97nbWe.png)
 
